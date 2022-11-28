@@ -1,2 +1,2 @@
-# Api-Test-Task
-JAVA RestAssured  Cucumber Gherkin Feature Files TestNG  
+# API Automation Test 
+JAVA RestAssured TestNG  
